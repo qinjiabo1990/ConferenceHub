@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "sdkVersion": "27.0.0",
+    "name": "Conference Hub",
+    "version": "1.0.0",
+    "icon": "./C.png",
+    "ios": {
+      "bundleIdentifier": "com.uq.s4427302"
+    },
+    "android": {
+      "package": "com.uq.s4427302"
+    }
+  }
+}
